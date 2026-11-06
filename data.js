@@ -235,14 +235,6 @@ const PRODUK = [
       { nama: "Merah",  warna: "#b3201f", foto: "" }
     ] },
 
-  { nama: "Arabella-A9853-1 Flower Block Heel 3,5cm", kategori: "Heels",   harga: 440000, hargaCoret: 504000,
-    ukuran: [35,36,37,38,39,40,41],         foto: "images/A9853-1.jpg", warna: "#f2c9a0" ,
-    varian: [
-      { nama: "Hitam",  warna: "#1a1a1a", foto: "" },
-      { nama: "Coklat", warna: "#8b4a22", foto: "" },
-      { nama: "Beige",  warna: "#EDE8D0", foto: "" }
-    ]},
-
   { nama: "Arabella-6660 Maryjane Leather 5cm",     kategori: "Heels",     harga: 515000, hargaCoret: 609000,
     ukuran: [35,36,37,38,39,40,41,42],     foto: "images/6660.jpg", warna: "#b7c4e8",
     varian: [

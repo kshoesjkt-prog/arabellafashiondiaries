@@ -97,7 +97,7 @@ function bangunHeader() {
   $("hdr").innerHTML =
     '<header class="topbar"><div class="wrap bar">' +
     '<a class="logo-top" href="index.html"><img src="images/arabella.jpg" alt="Arabella"></a>' +
-    '<nav class="topnav" aria-label="Menu utama"><a href="index.html" data-hal="home">HOME</a><a href="produk.html" data-hal="produk">PRODUCT</a></nav>' +
+    '<nav class="topnav" aria-label="Menu utama"><a href="/">HOME</a><a href="produk.html" data-hal="produk">PRODUCT</a></nav>' +
     '<form class="cari" id="formCari" role="search"><input id="cari" type="search" placeholder="Cari sepatu..." aria-label="Cari sepatu" autocomplete="off"><button type="submit" aria-label="Cari">' + IKON.cari + '</button></form>' +
     '<div class="ikon">' +
     '<a class="ib" id="waTop" href="#" target="_blank" rel="noopener" aria-label="Chat WhatsApp">' + IKON.wa + '</a>' +

@@ -1,0 +1,3 @@
+Taruh semua foto sepatu dan banner.jpg di folder ini.
+Nama file harus sama persis dengan yang tertulis di data.js, termasuk huruf besar-kecil.
+Contoh: foto: "images/9888N.jpg"  ->  file bernama 9888N.jpg (bukan 9888n.jpg)

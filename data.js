@@ -10,7 +10,7 @@ const TOKO = {
   sub: "Dari flat untuk kerja sampai heels untuk acara. Pilih ukuranmu, lalu pesan langsung lewat WhatsApp.",
   whatsapp: "6287880846809",   // 62 + nomor tanpa angka 0 di depan
   alamat: "ITC Mangga Dua Lt.4 Blok C No.33-34",
-  jam: "Buka setiap hari, 09.00–18.00 WIB",
+  jam: "Buka setiap hari, 10.00–17.00 WIB",
   instagram: "@arabellafashiondiaries",
   tiktok: "@arabellafashiondiaries",
   keunggulan: [
@@ -29,6 +29,16 @@ const TOKO = {
    - Untuk menghapus: hapus satu blok.
    - Jangan lupa koma (,) di antara blok. */
 const PRODUK = [
+   { nama: "Arabella-2361 Flowers Wedge 4cm ", kategori: "Wedges", harga: 450000, hargaCoret: 532000,
+    ukuran: [35,36,37,38,39,40,41], 
+    foto: "images/2361.jpg", warna: "#e9a3a3",
+    varian: [
+      { nama: "Hitam",  warna: "#1a1a1a", foto: "" },
+      { nama: "Coklat",  warna: "#8b4a22", foto: "" },
+      { nama: "Hijau", warna: "#667C4D", foto: "" },
+      { nama: "Chili Red",  warna: "#FF2F00", foto: "" },
+    ] },
+   
     { nama: "Arabella-N1666 Block Heel 3cm", kategori: "Heels", harga: 430000, hargaCoret: 490000,
     ukuran: [35,36,37,38,39,40,41], 
     foto: "images/N166.jpg", warna: "#e9a3a3",

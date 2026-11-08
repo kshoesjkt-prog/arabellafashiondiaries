@@ -49,7 +49,7 @@ const PRODUK = [
     ] },
 
   { nama: "Arabella-7023 Leather Flatshoes ", kategori: "Flat", harga: 455000, hargaCoret: 525000,
-    ukuran: [35,36,37,38,39,40,41], note: "size besar, disarankan untu turun 1 nomor.",
+    ukuran: [35,36,37,38,39,40,41], note: "size besar, disarankan untuk turun 1 nomor.",
     foto: "images/7023.jpg", warna: "#e9a3a3",
     varian: [
       { nama: "Hitam",  warna: "#1a1a1a", foto: "" },
